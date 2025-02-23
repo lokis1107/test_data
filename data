@@ -1,0 +1,29 @@
+[
+  {
+    id: 1,
+    name: "RAJA RAJAN. A",
+    summary:
+      "Pursuing Statistics with a foundation in Statistics and contribute technical expertise, Problem Solving Skill, and a passion for learning to apply class room knowledge to real world project and further developed skill in Time Management.",
+    skills: [
+      "UI/UX",
+      "Trading",
+      "Marketing Analysis",
+      "Time Management",
+      "Office",
+      "C Programming",
+    ],
+  },
+  {
+    id: 2,
+    name: "ABHISHEK D",
+    profile:
+      "Pursuing Bachelor of Management Studies with a strong foundation in Management Studies and contribute technical expertise, Problem Solving Skill, and a passion for learning to apply class room knowledge and further developed skill in Time Management.",
+    skills: [
+      "Communication",
+      "Computer Basics",
+      "MS Office Basics",
+      "Time Management",
+      "Leadership",
+    ],
+  },
+];
